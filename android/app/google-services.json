@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541052935531",
+    "project_id": "garage-locator-693f6",
+    "storage_bucket": "garage-locator-693f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541052935531:android:fdc84e9279c2ca5204c02e",
+        "android_client_info": {
+          "package_name": "com.ninjacodec.garage_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541052935531-mmqth353kc4hcb2on77jj0gnd9b80ndo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1eKOWO7U6XlyE-gzFD9m8yypKyeWi2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541052935531-mmqth353kc4hcb2on77jj0gnd9b80ndo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
